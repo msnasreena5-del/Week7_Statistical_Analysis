@@ -1,0 +1,14 @@
+HYPOTHESIS TEST 1: Independent t-test
+Comparison: North Region vs South Region Sales
+t-statistic: 0.1303, p-value: 0.8968
+Result: Not Significant
+
+HYPOTHESIS TEST 2: One-way ANOVA
+Comparison: Sales across all Regions (East, North, West, South)
+F-statistic: 2.1644, p-value: 0.0972
+Result: Not Significant
+
+HYPOTHESIS TEST 3: Pearson Correlation
+Variable 1: Price, Variable 2: Quantity
+Correlation: 0.0080, p-value: 0.9369
+Result: Not Significant
